@@ -7,7 +7,7 @@ Evade farm hub. Build output only — this file is generated, do not edit it her
 Paste into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zjsuarez/evadeseskohub-dist/main/seskokokoko.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zjsuarez/evadeseskohubrelease/main/seskokokoko.lua"))()
 ```
 
 For it to survive rejoins, put that line in your executor's `autoexec` folder instead of running it
